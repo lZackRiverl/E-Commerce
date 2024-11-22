@@ -1,0 +1,11 @@
+D:\.net\MyShop\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.deps.json
+D:\.net\MyShop\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.dll
+D:\.net\MyShop\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.pdb
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfoInputs.cache
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfo.cs
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.dll
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\refint\MyShop.DataAccess.dll
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.pdb
+D:\.net\MyShop\MyShop.DataAccess\obj\Debug\net8.0\ref\MyShop.DataAccess.dll

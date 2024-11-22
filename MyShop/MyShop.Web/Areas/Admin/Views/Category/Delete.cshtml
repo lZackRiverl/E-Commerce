@@ -1,0 +1,59 @@
+﻿@model Category
+
+@{
+    ViewBag.PageTitle = "Category Management";
+    ViewBag.CardTitle = "Delete Category";
+    Layout = "~/Views/Shared/_DashBoard.cshtml";
+}
+
+
+
+<hr />
+
+<div class="row">
+    <div class="clo-md-4">
+
+        <form asp-action="DeleteCategory" method="post">
+            <input hidden asp-for="Id" />
+
+            <div class="mb-3">
+                <label asp-for="Name" class="control-label"></></label>
+                <input asp-for="Name" disabled class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+            <div class="mb-3">
+                <label asp-for="Description" class="control-label"></></label>
+                <input asp-for="Description" disabled class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+
+            </div>
+
+
+
+            <div class="form-group">
+
+                <button type="submit" class="btn btn-danger">Delete</button>
+
+            </div>
+
+
+            <div class="mt-2">
+                <a asp-action="Index" asp-controller="Category" class="btn btn-warning">Back To Index</a>
+            </div>
+        </form>
+
+    </div>
+</div>
+
+
+
+
+
+@* @section scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptPartial");
+    }
+}
+ *@

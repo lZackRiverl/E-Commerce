@@ -1,0 +1,29 @@
+D:\.net\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.deps.json
+D:\.net\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.runtimeconfig.json
+D:\.net\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.dll
+D:\.net\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.pdb
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.csproj.AssemblyReference.cache
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.AssemblyInfoInputs.cache
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.AssemblyInfo.cs
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.csproj.CoreCompileInputs.cache
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.dll
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\refint\MyShop.Utilities.dll
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.pdb
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.genruntimeconfig.cache
+D:\.net\MyShop\MyShop.Utilities\obj\Debug\net8.0\ref\MyShop.Utilities.dll
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.deps.json
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.runtimeconfig.json
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.dll
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\bin\Debug\net8.0\MyShop.Utilities.pdb
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.csproj.AssemblyReference.cache
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.AssemblyInfoInputs.cache
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.AssemblyInfo.cs
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.sourcelink.json
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.dll
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\refint\MyShop.Utilities.dll
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.pdb
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\MyShop.Utilities.genruntimeconfig.cache
+C:\Users\Zack River\Desktop\E-Commerce-DEPI\MyShop\MyShop.Utilities\obj\Debug\net8.0\ref\MyShop.Utilities.dll
